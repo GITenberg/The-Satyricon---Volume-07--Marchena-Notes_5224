@@ -1,10 +1,13 @@
 _repo: The-Satyricon---Volume-07--Marchena-Notes_5224
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Firebaugh, W. C.
     gutenberg_agent_id: '36279'
     url: http://www.gutenberg.org/2009/agents/36279
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Petronius Arbiter
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1743
     wikipedia: http://en.wikipedia.org/wiki/Petronius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5224#The-Satyricon---Volume-07--Marchena-Notes
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
